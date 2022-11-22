@@ -11,22 +11,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.d(TAG, "onCreate: hhhhhhhhhhhh")
-
-        Log.d(TAG, "onCreate: new error")
-        // this is a comment
-        //
-        //
-        //JHDfjhadgfjh
-
-        Log.d(TAG, "onCreate: third---")
-        //nfknknnffaknnadfn//
-        // kajsdfkhad//nfknknnffaknnadfn//
-        //        // kajsdfkhad
-        //nfknknnffaknnadfn//
-        // kajsdfkhad//nfknknnffaknnadfn//
-        //        // kajsdfkhad//nfknknnffaknnadfn//
-        //        // kajsdfkhad
+        Log.d(TAG, "This is the clean Main Activity")
+       // cleaned the file
 
     }
 }
