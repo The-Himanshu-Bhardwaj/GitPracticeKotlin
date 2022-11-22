@@ -14,7 +14,16 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: hhhhhhhhhhhh")
 
         Log.d(TAG, "onCreate: new error")
+        // this is a comment
 
         Log.d(TAG, "onCreate: third---")
+        //nfknknnffaknnadfn//
+        // kajsdfkhad//nfknknnffaknnadfn//
+        //        // kajsdfkhad
+        //nfknknnffaknnadfn//
+        // kajsdfkhad//nfknknnffaknnadfn//
+        //        // kajsdfkhad//nfknknnffaknnadfn//
+        //        // kajsdfkhad
+
     }
 }
