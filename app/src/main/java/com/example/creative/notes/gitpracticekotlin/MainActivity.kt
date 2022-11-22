@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: third")
         //nfknknnffaknnadfn//
         // kajsdfkhad
-        //kjadkfan
+
     }
 }
