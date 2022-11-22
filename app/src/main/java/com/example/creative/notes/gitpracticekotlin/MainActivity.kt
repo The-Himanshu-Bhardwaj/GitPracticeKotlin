@@ -15,6 +15,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d(TAG, "onCreate: new error")
 
-        Log.d(TAG, "onCreate: third--")
+        Log.d(TAG, "onCreate: third---")
     }
 }
