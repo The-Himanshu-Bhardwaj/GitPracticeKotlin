@@ -14,10 +14,8 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: hhhhhhhhhhhh")
 
         Log.d(TAG, "onCreate: new error")
+
         // this is a comment
-        //
-        //
-        //JHDfjhadgfjh
 
 
     }
