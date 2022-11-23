@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: new error")
 
         // this is a comment
+            // this is another
 
 
     }
